@@ -1,0 +1,12 @@
+fastapi
+hypercorn
+pydantic
+requests
+
+tortoise-orm
+asyncpg
+aiosqlite
+aiomysql
+aerich 
+
+
